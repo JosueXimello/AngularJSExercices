@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+h1,h2,h3,h4{
+	font-family: 'Lato',sans-serif;
+	font-weight: 300;
+}
+
+body{
+	background: grey;
+}
+
+span{
+	color: grey;
+	height: 5px;
+}
